@@ -4,7 +4,7 @@
  */
 /*
 Plugin Name: kCom Product Desc Zero
-Plugin URI: https://korhone.com
+Plugin URI: https://korhone.com/kcom-product-zero-desc/
 Description: This plugin will list products with description size of 0.
 Version: 1.0.0
 Author: Jani Korhonen
