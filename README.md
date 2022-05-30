@@ -1,1 +1,1 @@
-# kcom-product-zero-desck
+# kcom-product-zero-desc
